@@ -1,0 +1,3 @@
+GitHub branching is a core feature that allows developers to diverge from the main line of development to work on new features or bug fixes in isolation. 
+Once work is complete, a pull request is used to review the changes and merge them back into the primary (commonly "main") branch. 
+Each branch acts as a self-contained environment, preventing changes from affecting the stable codebase until they are ready.
