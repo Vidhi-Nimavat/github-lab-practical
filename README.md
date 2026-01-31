@@ -1,3 +1,3 @@
 Edit of README.md
 
-HELLO BIDI 🤣🤣🤣🤣
+HELLO VIDHI 😍
